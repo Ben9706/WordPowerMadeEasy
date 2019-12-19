@@ -50,7 +50,7 @@
 	- anthropology 				:人类学
 	- anthropologist 			:人类学家
 	- philanthropist 			:慈善家
-		1. phil- 				:爱
+		1. phil- 			:爱
 			- Philadelphia: 	:费城 philos "loving" (see -phile) + adelphos "brother"
 
 		
