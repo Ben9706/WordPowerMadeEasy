@@ -6,8 +6,8 @@
 
 ## 2. gynecologist       : 妇科医生   
 
-1. logos                 :科学，研究 science，study
-
+1. gyne                 :女人 woman
+2. logos                 :科学，研究 science，study
 
 ## 3. obstetrician       : 产科医生
 
@@ -21,12 +21,14 @@
 1. paidos             :  儿童 child
 	- pediatrics       :  n. [医]小儿科
 	- pedagogy        : 教学法（这里的ped是 paido，child）
-	- demagogue			 :煽动人群的人，政客
+	- pedagogue:教师
 		1. agogos 		:带领，指引 leading
-		2. demos 		:人，people
+	- demagogue			 :煽动人群的人，政客
+		1. demos 		:人，people
 2. iatreia               : 治疗 medical healing
 	- geriatrics         :老年病学
 		1. mgeras           :   老的，old
+
 
 
 3. pedis                 :脚 foot
