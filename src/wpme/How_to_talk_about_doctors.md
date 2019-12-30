@@ -77,9 +77,13 @@
 ## 7. orthopedist       : 整形外科医生
 
 1. orthos             : 直，正确 straight，correct
+	- orthopedics:n.整形外科
 	- orthopedic      : adj. 整形外科的
 	- orthodontist    : n. 牙齿矫正医师
-		1.Odontos           :牙，tooth
+	- orthodontia: n. 牙齿矫正（=orthodontics）
+	- orthodontic：adj. 矫正牙齿的
+		1.odontos           :牙，tooth
+2. paidos:孩子 child（早期的整形外科最关注的是孩子的脊椎弯曲治疗，这是这个单词的来源）
 
 ## 8.cardiologist       : 心脏病学家
 
@@ -87,6 +91,7 @@
 	- cardiology      :心脏学
 	- cardiogram     :心电图
 	- cardiograph    :心电图机
+	- cardiac：心脏病的
 	
 
 
@@ -99,6 +104,7 @@
 		1. -itis           :炎症，inflammation
 	- neurosis			:神经症
 		1. -osis         :病的，abnormal，diseased condition
+	- neurotic ：adj./n. 患有神经症的/神经症患者，a person suffering from neurosis
 
 
 
@@ -108,6 +114,12 @@
 	- psychosis        :n.精神病, 精神不正常
 		1. -osis         :病的，abnormal，diseased condition
 	- psychiatry        :精神病学
+	        1. iatreia:疾病治疗， medical healing
+		        - pediatrics： 儿科学
+			- podiatry：足病治疗（+pedis）
+			- geriatrics： adj.老年病学的
+			        1.geras:年迈的，old age
+	- psychiatric:精神病的
 
 
 
