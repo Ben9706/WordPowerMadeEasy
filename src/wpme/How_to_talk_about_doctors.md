@@ -114,13 +114,9 @@
 	- psychosis        :n.精神病, 精神不正常
 		1. -osis         :病的，abnormal，diseased condition
 	- psychiatry        :精神病学
-	        1. iatreia:疾病治疗， medical healing
-		        - pediatrics： 儿科学
+		1. iatreia       :疾病治疗， medical healing
+			- pediatrics： 儿科学
 			- podiatry：足病治疗（+pedis）
 			- geriatrics： adj.老年病学的
-			        1.geras:年迈的，old age
-	- psychiatric:精神病的
-
-
-
-
+				1.geras:年迈的，old age
+	- psychiatric             :精神病的
